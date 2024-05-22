@@ -20,12 +20,12 @@ Infinite Vortex is a hypnotic spiral animation that draws inspiration from the c
 3. Watch in awe as the Infinite Vortex mesmerizes you with its hypnotic motion.
 
 
-## Credits
+#### Credits
 
 Inspired by ["Tombes Oubliées" by The Brian Jonestown Massacre](https://open.spotify.com/intl-es/track/1qzang97Oosou2rXS2ccS4?si=eb1eaa624f704cb1).
 
 
 
-## License
+#### License
 
 This project is licensed under the [MIT License](LICENSE).
